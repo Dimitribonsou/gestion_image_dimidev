@@ -1,0 +1,12 @@
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\bin\Debug\GestionImage.exe.config
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\bin\Debug\Imagedb.mdf
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\bin\Debug\Imagedb_log.ldf
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\bin\Debug\GestionImage.exe
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\bin\Debug\GestionImage.pdb
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.csprojResolveAssemblyReference.cache
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.Form1.resources
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.Properties.Resources.resources
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.csproj.GenerateResource.Cache
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.exe
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.pdb
+D:\Csharp avance\Multicouche TI-PAM2\GestionImage\GestionImage\obj\Debug\GestionImage.AfficheImage.resources
